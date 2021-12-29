@@ -1,6 +1,4 @@
---Yet another amazing lib from this dev team. Go show them support in their discord provided in the old lib. 
---example provided at bottom
-
+-- CREDITS HELIOS HUB THING
 do
 	local ui = game:GetService("CoreGui"):FindFirstChild("ragdolltestinglib")
 	if ui then
